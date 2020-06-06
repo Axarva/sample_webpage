@@ -1,7 +1,12 @@
-.nav-spacing{
-  margin: 0 0 0 20px;
-}
-.nav_menu{
+.nav-spacing {
   text-align: right;
-  padding: 10px
+  margin-left: 10px;
+}
+.nav_menu {
+  text-decoration: none;
+  color: #0000ff;
+  padding: 10px;
+}
+.image_link {
+  text-decoration: none;
 }
